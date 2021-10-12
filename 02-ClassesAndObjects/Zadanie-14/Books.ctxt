@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Books
+comment0.text=\r\n\ 14.\ Define\ a\ class\ for\ describing\ books.\r\n\ Then,\ define\ fields\ and\ methods\ in\ the\ class\ that\ represent\ the\ attributes\ and\ behaviors\ of\ the\ book\ objects.\r\n\ Finally,\ create\ two\ books,\ assign\ them\ attribute\ values,\ and\ call\ defined\ methods.\r\n
+comment1.params=
+comment1.target=void\ showInfo()
+comment2.params=
+comment2.target=void\ checkStatus()
+numComments=3

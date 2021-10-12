@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rectangles
+comment0.text=\r\n\ 16.\ Define\ a\ class\ for\ describing\ rectangles.\r\n\ Then\ create\ two\ objects\ that\ represents\ rectangles\ with\ dimensions\ of\ 3x4\ and\ 2x7\ respectively.\r\n\ Display\ their\ dimensions,\ perimeters\ and\ surface\ areas\ \r\n
+comment1.params=
+comment1.target=void\ showDimensions()
+comment2.params=
+comment2.target=void\ showPerimeter()
+comment3.params=
+comment3.target=void\ showSurface()
+numComments=4

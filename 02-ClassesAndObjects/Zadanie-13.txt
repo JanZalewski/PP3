@@ -1,0 +1,14 @@
+13. Specify at least five attributes and three behaviors for the objects:
+
+a. Smartphone
+
+b. Bank account
+
+a:
+attributes: brand, model, color, weight, IMEI number
+bahaviors: turn off, turn on, call
+
+b:
+attributes: account number, name, surname, pesel, bank name
+behaviors: show account balance, send, log in
+		

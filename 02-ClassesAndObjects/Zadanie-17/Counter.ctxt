@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ 17.\ Design\ a\ simple\ counter.\ The\ initial\ value\ of\ the\ counter\ is\ 0.\r\n\ The\ counter\ can\ be\ increased\ or\ decreased\ by\ one,\ and\ increased\ and\ decreased\ by\ 10.\r\n\ It\ is\ possible\ to\ reset\ the\ counter\ to\ its\ initial\ value.\r\n\ Then\ define\ a\ class\ for\ counters.\ Create\ two\ counters.\ Set\ the\ first\ counter\ to\ 23\ and\ the\ second\ one\ to\ -47.\r\n
+comment1.params=
+comment1.target=void\ increaseBy1()
+comment2.params=
+comment2.target=void\ decreaseBy1()
+comment3.params=
+comment3.target=void\ increaseBy10()
+comment4.params=
+comment4.target=void\ decreaseBy10()
+comment5.params=
+comment5.target=void\ resetValue()
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lamps
+comment0.text=\r\n\ 15.\ Define\ a\ class\ for\ describing\ lamps.\ Then\ define\ the\ following\ object\ attributes\ and\ behaviors\:\r\na.\ attributes\:\ whether\ a\ lamp\ is\ on\r\nb.\ behaviors\:\ (1)\ switch\ on\ the\ lamp,\ (2)\ switch\ off\ the\ lamp,\ (3)\ display\ information\ whether\ the\ lamp\ is\ on\ or\ off\r\nAfter\ that,\ create\ two\ lamps,\ switch\ on\ the\ first\ one\ and\ switch\ off\ the\ second\ one.\ Display\ information\ whether\ the\ lamps\ are\ on\ or\ off\r\n
+comment1.params=
+comment1.target=void\ switchOn()
+comment2.params=
+comment2.target=void\ switchOff()
+comment3.params=
+comment3.target=void\ displayStatus()
+numComments=4
