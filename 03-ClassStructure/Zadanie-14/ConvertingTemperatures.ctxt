@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ConvertingTemperatures
+comment0.text=\r\n\ 14.\ Create\ a\ library\ of\ methods\ for\ converting\ temperatures\ between\r\n\ Celsius,\ Kelvin,\ and\ Fahrenheit.\ You\ can\ name\ the\ methods\r\n\ e.g.\ CelsiusToKelvin(),\ KelvinToCelsius(),\ ect.\r\n\ Then\ create\ a\ program\ that\ calculates\ and\ displays\ the\ temperature\:\r\n\r\na.\ 25\ degrees\ Celsius\ in\ Kelvin\ and\ Fahrenheit\r\n\r\nb.\ 100\ degrees\ Fahrenheit\ in\ Kelvin\ and\ Celsius\r\n\r\nc.\ 0\ degrees\ Kelvin\ in\ Celsius\ and\ Fahrenheit\r\n
+comment1.params=
+comment1.target=void\ celsiusToKelvin()
+comment2.params=
+comment2.target=void\ kelvinToCelsius()
+comment3.params=
+comment3.target=void\ celsiusToFahrenheit()
+comment4.params=
+comment4.target=void\ kelvinToFahrenheit()
+comment5.params=
+comment5.target=void\ fahrenheitToCelsius()
+comment6.params=
+comment6.target=void\ fahrenheitToKelvin()
+comment7.params=
+comment7.target=void\ displayTemp()
+numComments=8

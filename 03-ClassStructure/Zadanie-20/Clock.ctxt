@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Clock
+comment0.text=\r\n\ 20.\ Define\ a\ class\ Clock\ that\ represents\ a\ digital\ clock.\ It\ has\ two\ attributes\:\ hour\ and\ minute.\r\n\ The\ hour\ value\ ranges\ from\ 0\ to\ 23.\r\n\ The\ minute\ value\ ranges\ from\ 0\ to\ 59.\ Next,\ define\ the\ following\ constructors\:\r\n\r\na.\ Clock()\ \u2013\ initialises\ clock\ to\ 00\:00\r\nb.\ Clock(hour,minute)\ \u2013\ initialises\ clock\ to\ hour\:minute\r\n\r\nThen,\ define\ methods\:\r\n\r\nc.\ setClock(hour,minute)\r\nd.\ setClock()\ -\ reset\ clock\ to\ 00\:00\r\ne.\ displayTime()\r\nf.\ addOneMinute()\r\n
+comment1.params=
+comment1.target=Clock()
+comment2.params=hour\ minute
+comment2.target=Clock(int,\ int)
+comment3.params=hour\ minute
+comment3.target=void\ setClock(int,\ int)
+comment4.params=
+comment4.target=void\ setClock()
+comment5.params=
+comment5.target=void\ displayTime()
+comment6.params=
+comment6.target=void\ addOneMinute()
+numComments=7

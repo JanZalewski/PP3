@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=InternetDevice
+comment0.text=\r\n\ 16.\ There\ are\ many\ devices\ that\ can\ use\ the\ Internet\:\ a\ personal\ computer,\ laptop,\ tablet,\ smartphone,\ internet\ radio\ or\ TV.\r\n\ Define\ an\ InternetDevice\ class\ to\ describe\ such\ devices.\r\n\ The\ class\ should\ contain\ attributes\:\ name\ (device\ name),\ \r\n\ connected\ (whether\ a\ device\ is\ connected\ to\ the\ Internet),\ \r\n\ and\ connectedDevices\ (the\ number\ of\ connected\ devices\ -\ static\ field).\r\n\ Add\ a\ constructor\ InternetDevice(name)\ and\ methods\ for\ device\ manipulation\:\ \r\n\ connect(),\ disconnect(),\ isConnected(),\ displayStatus(),\ displayConnections()\ (static\ method).\r\n\ Then\ write\ a\ program\ that\ creates\ five\ different\ internet\ devices,\ three\ of\ which\ are\ connected\ to\ the\ Internet.\r\n\ Display\ the\ status\ of\ each\ device\ and\ information\ about\ the\ number\ of\ devices\ connected\ to\ the\ Internet.\r\n
+comment1.params=name
+comment1.target=InternetDevice(java.lang.String)
+comment2.params=
+comment2.target=void\ connect()
+comment3.params=
+comment3.target=void\ disconnect()
+comment4.params=
+comment4.target=void\ displayStatus()
+comment5.params=
+comment5.target=void\ displayConnections()
+numComments=6

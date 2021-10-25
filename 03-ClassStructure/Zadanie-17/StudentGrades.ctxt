@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StudentGrades
+comment0.text=\r\n\ 17.\ The\ following\ definition\ of\ the\ StudentGrades\ \r\n\ class\ allows\ the\ storage\ of\ a\ student's\ grades.\r\npublic\ class\ StudentGrades\r\n{\ String\ studentName;\ double[]\ grades;\ StudentGrades(String\ name,\ double[]\ grades)\ {\ this.studentName\ \=\ name;\ this.grades\ \=\ grades;\ }\ }\r\nComplete\ the\ class\ with\ methods\ that\:\r\n\r\na.\ calculates\ of\ the\ lowest\ grade\r\nb.\ calculates\ of\ the\ highest\ grade\r\nc.\ calculates\ of\ the\ number\ of\ grades\r\nd.\ calculates\ of\ the\ grade\ point\ average\r\ne.\ displays\ student\u2019s\ record\ with\ student\u2019s\ name,\ a\ list\ of\ the\ student's\ grades,\ number\ of\ grades,\ lowest\ grade,\ highest\ grade,\ and\ grade\ point\ average\r\n\r\nThen,\ write\ a\ program\ that\ creates\ grades\ for\ two\ students\:\r\n\r\nf.\ Amanda\:\ 3.5,\ 4.5,\ 4.0,\ 2.0,\ 5.0,\ 3.5,\ 3.5\r\ng.\ James\:\ 2.0,\ 3.0,\ 2.0,\ 4.5,\ 4.5\r\nTip\:\ pass\ student's\ grades\ to\ the\ constructor,\ as\ an\ array,\ in\ curly\ brackets,\ e.g.\ StudentGrades({5.0,\ 3.5}).\r\n
+comment1.params=name\ grades
+comment1.target=StudentGrades(java.lang.String,\ double[])
+comment2.params=
+comment2.target=void\ lowestGrade()
+comment3.params=
+comment3.target=void\ highestGrade()
+comment4.params=
+comment4.target=void\ numOfGrades()
+comment5.params=
+comment5.target=void\ average()
+comment6.params=
+comment6.target=void\ display()
+numComments=7

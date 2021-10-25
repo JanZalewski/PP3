@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Room
+comment0.text=\r\n\ 22.\ Define\ a\ class\ Room\ that\ represents\ a\ hotel\ room.\r\n\ The\ class\ should\ contain\ the\ attributes\:\ number,\ beds,\ occupied,\ and\ guestName.\r\n\ Add\ constructors\:\ Room(number)\ (creates\ a\ room\ with\ two\ beds)\ and\ Room(number,beds).\r\n\ Next,\ define\ methods\ for\ room\ manipulation\:\ checkin(guestName),\ checkout(),\ isOccupied(),\ and\ displayStatus().\r\n\ Then\ write\ a\ program\ in\ which\ create\ three\ rooms\ with\ two\ beds,\ two\ rooms\ with\ three\ beds\ and\ one\ room\ with\ one\ bed.\r\n\ Store\ all\ room\ objects\ in\ an\ array\:\r\nRoom[]\ rooms\ \=\ new\ Room[6];\r\n\r\nThen\ follow\ the\ steps\ below\:\r\n\r\na.\ Display\ status\ of\ a\ single\ room\ (room\ number,\ number\ of\ beds,\ occupied,\ guest\ name).\ Display\ data\ in\ a\ single\ row.\r\nb.\ Display\ a\ report\ with\ a\ list\ of\ rooms\ (room\ number,\ number\ of\ beds,\ occupied,\ guest\ name)\r\nc.\ Display\ a\ report\ with\ a\ list\ of\ rooms,\ limited\ to\ rooms\ with\ the\ specified\ number\ of\ beds\r\nd.\ Display\ a\ report\ on\ how\ many\ rooms\ are\ vacant\ and\ how\ many\ are\ occupied\r\ne.\ Display\ a\ report\ on\ how\ many\ vacant\ beds\ are\ available\r\nCreate\ a\ separate\ static\ method\ for\ each\ report.\ Pass\ a\ list\ of\ rooms\ (an\ array)\ to\ the\ defined\ static\ methods.\r\n
+comment1.params=number
+comment1.target=Room(int)
+comment10.params=rooms
+comment10.target=void\ areOccupied(Room[])
+comment11.params=rooms
+comment11.target=void\ vacPlaces(Room[])
+comment2.params=number\ beds
+comment2.target=Room(int,\ int)
+comment3.params=guestName
+comment3.target=void\ checkin(java.lang.String)
+comment4.params=
+comment4.target=void\ checkout()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=void\ displayStatus()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment8.params=rooms
+comment8.target=void\ allReport(Room[])
+comment9.params=rooms\ numBeds
+comment9.target=void\ limitedReport(Room[],\ int)
+numComments=12

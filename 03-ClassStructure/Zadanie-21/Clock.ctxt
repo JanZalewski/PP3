@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Clock
+comment0.text=\r\n\ 21.\ Add\ an\ alarm\ function\ to\ the\ clock.\ \r\n\ Complete\ the\ class\ definition\ with\ the\ attributes\:\ alarmHour,\ alarmMinute.\ \r\n\ Add\ methods\:\ setAlarm(hour,\ minute)\ and\ runAlarm(),\ which\ displays\ the\ "beep-beep-beep-beep\ \!\!"\ alarm\ sound.\r\n\ Turn\ on\ the\ alarm\ when\ the\ alarm\ time\ is\ the\ same\ as\ the\ clock\ time(compare\ times\ in\ the\ addOneMinute()\ method).\r\n
+comment1.params=
+comment1.target=Clock()
+comment2.params=hour\ minute
+comment2.target=Clock(int,\ int)
+comment3.params=hour\ minute
+comment3.target=void\ setClock(int,\ int)
+comment4.params=
+comment4.target=void\ setClock()
+comment5.params=
+comment5.target=void\ displayTime()
+comment6.params=
+comment6.target=void\ addOneMinute()
+comment7.params=hour\ minute
+comment7.target=void\ setAlarm(int,\ int)
+comment8.params=
+comment8.target=void\ runAlarm()
+numComments=9

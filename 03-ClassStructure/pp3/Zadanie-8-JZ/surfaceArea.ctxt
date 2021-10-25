@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=surfaceArea
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ surfaceArea\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=radius
+comment1.target=double\ circleArea(double)
+comment2.params=s1\ s2
+comment2.target=double\ rectangleArea(double,\ double)
+comment3.params=s\ h
+comment3.target=double\ triangleArea(double,\ double)
+numComments=4
