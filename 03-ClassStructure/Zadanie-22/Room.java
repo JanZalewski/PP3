@@ -43,7 +43,7 @@ public class Room
         guestName = null;
     };
     public String toString(){ 
-        return this.number+" "+this.beds+" "+isOccupied+" "+guestName;  
+        return number+" "+beds+" "+isOccupied+" "+guestName;  
     } 
     void displayStatus(){
         System.out.print("Room number: " + number + " ");

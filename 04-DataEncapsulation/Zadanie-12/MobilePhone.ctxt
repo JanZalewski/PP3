@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MobilePhone
+comment0.text=\r\n\ Choose\ any\ object.\r\n\ Then\ define\ a\ class\ that\ describes\ such\ objects.\ \r\n\ Hide\ data\ about\ an\ object\ using\ data\ encapsulation.\r\n
+comment1.params=name
+comment1.target=void\ setName(java.lang.String)
+comment2.params=model
+comment2.target=void\ setModel(java.lang.String)
+comment3.params=year
+comment3.target=void\ setYearOfProduction(java.lang.String)
+comment4.params=memory
+comment4.target=void\ setMemoryInGb(int)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=java.lang.String\ getModel()
+comment7.params=
+comment7.target=java.lang.String\ getYearOfProduction()
+comment8.params=
+comment8.target=java.lang.String\ getMemory()
+comment9.params=
+comment9.target=void\ displayData()
+numComments=10
