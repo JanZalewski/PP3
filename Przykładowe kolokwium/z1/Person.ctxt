@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n(Xpkt)\ Zdefiniuj\ klas\u0119\ Person,\ zawieraj\u0105c\u0105\ atrybuty\ opisuj\u0105ce\ osob\u0119\:\r\n\ name(String),adult(boolean).Zastosuj\ hermetyzacj\u0119\ danych.\ \r\n\ Zdefiniuj\ konstruktor\ z\ parametrami\:\ nameorazadult(w\ tej\ kolejno\u015Bci),\ \r\n\ umo\u017Cliwiaj\u0105cy\ zainicjowanie\ warto\u015Bci\ pocz\u0105tkowych\ atrybut\u00F3wobiektu.\r\n\ Zdefiniuj\ metody\ dost\u0119powe\ i\ modyfikuj\u0105ce\ dla\ ka\u017Cdego\ z\ atrybut\u00F3w.\ \\\r\nZastosujnazwy\ metod\ zgodnie\ z\ konwencj\u0105nazw.\ \r\n
+comment1.params=name\ adult
+comment1.target=Person(java.lang.String,\ boolean)
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=adult
+comment3.target=void\ setAdult(boolean)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getAdult()
+numComments=6

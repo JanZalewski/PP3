@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n(Xpkt)Zdefiniuj\ klas\u0119\ Counter,\ kt\u00F3ra\ umo\u017Cliwia\ utworzenie\ licznikatypu\ ca\u0142kowitego\ int.\r\nPocz\u0105tkowa\ warto\u015B\u0107licznika\ wynosi\ 0.\ \r\nKlasa\ zawierametod\u0119\ increase()\ zwi\u0119kszaj\u0105c\u0105\ warto\u015B\u0107\ licznika\ o\ 1\ oraz\ metod\u0119\ decrease()\ zmniejszaj\u0105c\u0105\ warto\u015B\u0107\ licznika\ o\ 1.\r\n\ Utw\u00F3rz\ r\u00F3wnie\u017C\ metody\ przeci\u0105\u017Cone\ increase(int\ n)\ oraz\ decrease(int\ n)\r\n\ umo\u017Cliwiaj\u0105ce\ zwi\u0119kszenie\ lub\ zmniejszenie\ warto\u015Bci\ licznika\ o\ warto\u015B\u0107\ n.\r\n\ Dodaj\ w\ klasie\ metod\u0119\ value()\ zwracaj\u0105c\u0105\ warto\u015B\u0107\ licznika.\r\n
+comment1.params=
+comment1.target=void\ increase()
+comment2.params=
+comment2.target=void\ decrease()
+comment3.params=n
+comment3.target=void\ increase(int)
+comment4.params=n
+comment4.target=void\ decrease(int)
+comment5.params=
+comment5.target=void\ value()
+numComments=6

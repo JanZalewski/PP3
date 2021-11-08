@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MyArrays
+comment0.text=\r\n\ Xpkt)Zdefiniuj\ klas\u0119\ MyArrays,\ zawieraj\u0105c\u0105\ dwie\ metody\ statyczne\:\r\n\ metod\u0119\ max(int[]\ array)zwracaj\u0105c\u0105\ najwi\u0119ksz\u0105\ warto\u015B\u0107\ w\ przekazanej\ tablicy\r\n\ oraz\ metod\u0119\ odd(int[]\ array)\ zwracaj\u0105c\u0105\ ilo\u015B\u0107\ liczb\ nieparzystych\ w\ przekazanej\ tablicy.\r\n
+comment1.params=array
+comment1.target=void\ max(int[])
+comment2.params=array
+comment2.target=void\ odd(int[])
+numComments=3
