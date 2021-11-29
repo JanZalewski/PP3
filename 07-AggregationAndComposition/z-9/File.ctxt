@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=File
+comment1.params=name\ size\ type
+comment1.target=File(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ open()
+comment3.params=
+comment3.target=void\ close()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

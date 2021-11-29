@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bookcase
+comment1.params=color\ height
+comment1.target=Bookcase(java.lang.String,\ int)
+comment2.params=b
+comment2.target=void\ addBook(Book)
+comment3.params=b
+comment3.target=void\ removeBook(Book)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

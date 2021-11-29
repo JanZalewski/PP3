@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Competitors
+comment1.params=scores\ name
+comment1.target=Competitors(int[],\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ showFinalScore()
+comment3.params=
+comment3.target=void\ main()
+numComments=4
